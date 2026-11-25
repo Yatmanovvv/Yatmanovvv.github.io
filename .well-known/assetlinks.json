@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yatmanovvv.twa",
+        "sha256_cert_fingerprints": ["50:AA:E8:2A:8B:76:21:97:F3:93:7A:D1:5F:54:E0:43:06:72:AA:09:18:B4:ED:95:E3:9B:53:63:B5:AA:26:62"]
+      }
+    }]
